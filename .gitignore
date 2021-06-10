@@ -2,3 +2,4 @@
 !init.vim
 !coc-settings.json 
 !.gitignore
+!lsp.lua
